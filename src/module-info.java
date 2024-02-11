@@ -5,5 +5,5 @@
  * @author manta
  *
  */
-module JspiderPPT {
+module Jspider_Assessment {
 }
